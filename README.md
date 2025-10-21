@@ -9,4 +9,4 @@
 React • Node • Express • MongoDB • Docker • AWS
 
 ## 🤝 Contact
-[Email](mailto:bachchanthapa@email.com)  · [Resume](#)
+[Email](mailto:me@email.com)  · [Resume](#)
